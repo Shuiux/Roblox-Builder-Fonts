@@ -1,0 +1,12 @@
+{
+  "name": "roblox-builder-fonts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shuiux",
+  "license": "Apache-2.0"
+}
